@@ -26,3 +26,10 @@ This project is an Attendance System that uses face recognition to automatically
    ```bash
    git clone https://github.com/yourusername/attendance-system-face-recognition.git
    cd attendance-system-face-recognition
+
+  opencv-python
+face_recognition
+numpy
+Pillow
+
+   
